@@ -18,7 +18,7 @@
     <dependency>
       <groupId>com.wavefront</groupId>
       <artifactId>java-client</artifactId>
-      <version>4.17</version>
+      <version>4.26</version>
     </dependency>
     <dependency>
       <groupId>io.dropwizard.metrics4</groupId>
